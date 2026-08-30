@@ -77,7 +77,7 @@ I write about hardware engineering, embedded systems, PCB design, EDA automation
 
 ### Latest Article
 
-**Building Phoenix Net Generator: An Engineer-in-the-Loop Approach to Semantic Schematic Automation in Altium Designer**[View](https://medium.com/@aykutcotur/building-phoenix-net-generator-an-engineer-in-the-loop-approach-to-semantic-schematic-automation-2c3c44e6bbf3)
+**Building Phoenix Net Generator: An Engineer-in-the-Loop Approach to Semantic Schematic Automation in Altium Designer** [View](https://medium.com/@aykutcotur/building-phoenix-net-generator-an-engineer-in-the-loop-approach-to-semantic-schematic-automation-2c3c44e6bbf3)
 
 ---
 
