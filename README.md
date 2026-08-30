@@ -79,8 +79,6 @@ I write about hardware engineering, embedded systems, PCB design, EDA automation
 
 **Building Phoenix Net Generator: An Engineer-in-the-Loop Approach to Semantic Schematic Automation in Altium Designer**
 
-Medium article link will be added here.
-
 ---
 
 ## 🚀 Current Direction
@@ -102,7 +100,7 @@ Validation
         ↓
 PCB Assistance
 
-...
+```
 
 I am interested in exploring how deterministic engineering automation and AI can cooperate inside future EDA workflows.
 
