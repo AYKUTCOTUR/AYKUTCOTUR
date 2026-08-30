@@ -116,3 +116,4 @@ Contributions, technical discussions, bug reports, and ideas are welcome.
 
 - GitHub: [@AYKUTCOTUR](https://github.com/AYKUTCOTUR)
 - LinkedIn: [Aykut Çotur](https://www.linkedin.com/in/aykutcotur/)
+- Medium: [Aykut Çotur](https://medium.com/@aykutcotur)
