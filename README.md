@@ -102,7 +102,7 @@ Validation
         ↓
 PCB Assistance
 
----
+text```
 
 I am interested in exploring how deterministic engineering automation and AI can cooperate inside future EDA workflows.
 
